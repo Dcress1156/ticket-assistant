@@ -3,6 +3,7 @@
 A small application built to assist in customer support/service or roles where ticket tracking is important.
 
 The Email Hinter will take an email and obscure the middle-part of the email. This can be useful if you need to provide an email in a secure way.
+
 ![image](https://user-images.githubusercontent.com/67988191/213208864-76de0249-9a88-45c7-ba73-17db4e50766e.png)
 
 
