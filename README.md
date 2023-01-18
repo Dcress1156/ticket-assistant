@@ -8,19 +8,24 @@ The Email Hinter will take an email and obscure the middle-part of the email. Th
 
 
 The Ticket Tracker will take in ticket numbers (Formatted as #12345) and save them to a list. From there you can copy them to your clipboard.
+
 ![image](https://user-images.githubusercontent.com/67988191/213208818-66f7d0c0-535e-4615-a2c0-56fb7b80f10a.png)
 
 Features
 --------
 
 Dark + Light mode
+
 ![image](https://user-images.githubusercontent.com/67988191/213207338-d848d539-2a0a-4b39-8f71-563af341820c.png)
+
 ![image](https://user-images.githubusercontent.com/67988191/213207390-0c4be9cb-bb97-4526-82c3-75b5f8409f0a.png)
 
 Ability to remove Sidepanel and Signature
+
 ![image](https://user-images.githubusercontent.com/67988191/213207489-a087a4a7-f9c5-4e6c-ae19-600e61da412a.png)
 
 Password Mode for enhanced security when working with emails
+
 ![image](https://user-images.githubusercontent.com/67988191/213207675-297fa74c-7c72-4a5e-9f84-95a9834502a5.png)
 
 Other
