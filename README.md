@@ -33,3 +33,4 @@ Other
 Written in Rust and powered by egui and eframe. Will continue to update and add features to make it more versatile and streamlined. 
 If you encounter any issues with the program please let me know. Feel free to edit and re-distribute this project all you want.
 
+Please note this is just a "quick" version of the app that I built in less than two days for the sole purpose of just using it myself.
