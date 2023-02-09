@@ -49,7 +49,7 @@ Simply open a terminal or powershell and navigate to the directory/folder contai
 
 'cargo test'
 
-This will install dependencies, which there are quite a few, and test for errors, while your here, you can optionally fix any warnings, however they are mostly harmless. As stated in the Other section, this is far from a production build, whatever that may be, but I am in the process of completely rewriting this to fix those warnings and allow for more features. Once that is complete run the next command to build a release:
+This will install dependencies, which there are quite a few, and test for errors, while you're here, you can optionally fix any warnings, however they are mostly harmless. As stated in the Other section, this is far from a production build, whatever that may be, but I am in the process of completely rewriting this to fix those warnings and allow for more features. Once that is complete run the next command to build a release:
 
 'cargo build --release'
 
