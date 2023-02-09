@@ -7,8 +7,6 @@ pub fn fn_hint(email_og: String) -> String {
     // make sure no whitespace
     let email = email_og.trim();
 
-    // this is a seemingly overly complex way to check if the string provided is an email, otherwise the program will crash,
-    // because this function is called every frame, not just when the user inputs the whole email
     if email.contains('@') {
 
     // string stuff
