@@ -1,5 +1,7 @@
 # ticket-assistant
 
+For Windows and Linux (Mac version when I build hackintosh)
+
 A small application built to assist in customer support/service or roles where ticket tracking is important.
 
 The Email Hinter will take an email and obscure the middle-part of the email. This can be useful if you need to provide an email in a secure way.
