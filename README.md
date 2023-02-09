@@ -62,3 +62,5 @@ Written in Rust and powered by egui and eframe. Will continue to update and add 
 If you encounter any issues with the program please let me know. Feel free to edit and re-distribute this project all you want.
 
 Please note this is just a "quick" version of the app that I built in less than two days for the sole purpose of just using it myself and is far from an actual release version, my end goal is to create a small web app using rust to complement the desktop version.
+
+Trying to work smarter somehow always ends up in working harder, to achieve a state of working smarter.
