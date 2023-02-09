@@ -49,7 +49,7 @@ Simply open a terminal or powershell and navigate to the directory/folder contai
 
 'cargo test'
 
-This will install dependencies, which there are quite a few, and test for errors. Once that is complete run the next command to build a release:
+This will install dependencies, which there are quite a few, and test for errors, while your here, you can optionally fix any warnings, however they are mostly harmless. As stated in the Other section, this is far from a production build, whatever that may be, but I am in the process of completely rewriting this to fix those warnings and allow for more features. Once that is complete run the next command to build a release:
 
 'cargo build --release'
 
@@ -61,4 +61,4 @@ Other
 Written in Rust and powered by egui and eframe. Will continue to update and add features to make it more versatile and streamlined. 
 If you encounter any issues with the program please let me know. Feel free to edit and re-distribute this project all you want.
 
-Please note this is just a "quick" version of the app that I built in less than two days for the sole purpose of just using it myself.
+Please note this is just a "quick" version of the app that I built in less than two days for the sole purpose of just using it myself and is far from an actual release version, my end goal is to create a small web app using rust to complement the desktop version.
