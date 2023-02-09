@@ -28,6 +28,30 @@ Password Mode for enhanced security when working with emails
 
 ![image](https://user-images.githubusercontent.com/67988191/213207675-297fa74c-7c72-4a5e-9f84-95a9834502a5.png)
 
+Compiling/Building From Source
+------------------------------
+I ran into some issues running the windows version under a virtual-machine so if you are also experiencing this and would like to use the program or would just like to build from source, follow these steps.
+
+First you need to download the repo. You can do this using git or just downloading the zip file. This can be done by clicking the big green 'code' button and pressing 'download zip'. From there, just unzip and put it somewhere accessible.
+
+The next thing you need to do is install the Rust language. You can do so by simply getting the installer from their website: rust-lang.org/tools/install
+Make sure you do the quick install if you do not have the prerequisites (This would be option one in the installer). Once visual studio is installed just continue with default.
+
+Once you have rust installed, you can then move on to compiling how ever you desire.
+
+Since Rust is very easy to use, mainly due to cargo, the final steps are quite simple.
+
+Simply open a terminal or powershell and navigate to the directory/folder containing the cargo.toml file. From there run the following commands:
+
+'cargo test'
+
+This will install dependencies, which there are quite a few, and test for errors. Once that is complete run the next command to build a release:
+
+'cargo build --release'
+
+This will then build the executable. This is the .exe that you will use to run the program. Once that is complete you have successfuly compiled the program. You can extract the exe from '/target/release/email_hinter.exe' and use it!
+
+
 Other
 -----
 Written in Rust and powered by egui and eframe. Will continue to update and add features to make it more versatile and streamlined. 
