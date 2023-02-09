@@ -30,7 +30,9 @@ Password Mode for enhanced security when working with emails
 
 Compiling/Building From Source
 ------------------------------
-I ran into some issues running the windows version under a virtual-machine so if you are also experiencing this and would like to use the program or would just like to build from source, follow these steps.
+If you would like to compile this yourself, follow these steps:
+
+Please note that you will need to use wgpu under certain setups like a windows VM under virtual box. You can find the graphic backend in 'cargo.toml'. Glow has worked better for me, but since I typically use this under a VM, I have included a binary using wgpu in the release section for those having issues running this. Also, if you are having issues running it, make sure to run with backtracing, it is most likely a graphic issue.
 
 First you need to download the repo. You can do this using git or just downloading the zip file. This can be done by clicking the big green 'code' button and pressing 'download zip'. From there, just unzip and put it somewhere accessible.
 
